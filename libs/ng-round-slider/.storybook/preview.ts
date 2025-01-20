@@ -5,6 +5,8 @@ const preview: Preview = {
     controls: { expanded: true },
     options: { showPanel: true },
   },
+
+  tags: ['autodocs']
 };
 
 export default preview;
