@@ -26,7 +26,7 @@
   "homepage": "https://github.com/DKozachenko/ng-round-slider/blob/develop/libs/ng-round-slider/README.md",
   "license": "ISC",
   "peerDependencies": {
-    "@angular/core": "^17.0.0",
+    "@angular/core": "^18.2.13",
     "round-slider": "^1.6.1",
     "uuid": "^9.0.1",
     "jquery": "^3.7.1"
